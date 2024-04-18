@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "lastName": "Thomas",
+      "firstName": "Megan",
+      "email": "Megan.Thomas@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "lastName": "Romero",
+      "firstName": "Jane",
+      "email": "jane.romero@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "3",
+      "lastName": "Afton",
+      "firstName": "William",
+      "email": "Afton.william@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "4",
+      "lastName": "Collins",
+      "firstName": "Phil",
+      "email": "phil.collins@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "5",
+      "lastName": "Benson",
+      "firstName": "George",
+      "email": "george.benson@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "6",
+      "lastName": "Michael",
+      "firstName": "George",
+      "email": "george.michael@hotmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "7",
+      "lastName": "Karlsson",
+      "firstName": "Nea",
+      "email": "therealentity@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "8",
+      "lastName": "Young",
+      "firstName": "Amanda",
+      "email": "amanda.young@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "9",
+      "lastName": "King",
+      "firstName": "David",
+      "email": "david.king@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "10",
+      "lastName": "Smith",
+      "firstName": "Quentin",
+      "email": "exhaustedguy@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "a881",
+      "lastName": "poj",
+      "firstName": "poj",
+      "email": "poj@gmail.com",
+      "password": "poj"
+    },
+    {
+      "id": "3f15",
+      "lastName": "Fernandez",
+      "firstName": "Maryna",
+      "email": "Maryna@gmailom",
+      "password": "123"
+    },
+    {
+      "lastName": "Rosario",
+      "firstName": "Eva",
+      "email": "eva@gmail.com",
+      "password": "Azerty123456##",
+      "id": "60fMb1l"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "lastName": "Smith",
+      "firstName": "John",
+      "jobTitle": "Developer",
+      "phone": "123-456-7890",
+      "email": "john.smith@example.com",
+      "address": "123 Main St, City, Country"
+    },
+    {
+      "id": "3",
+      "lastName": "Johnson",
+      "firstName": "Michael",
+      "jobTitle": "Manager",
+      "phone": "555-123-4567",
+      "email": "michael.johnson@example.com",
+      "address": "789 Pine St, Village, Country"
+    },
+    {
+      "id": "0326",
+      "lastName": "Collins",
+      "firstName": "Phil",
+      "jobTitle": "Artiste",
+      "phone": "06-06-06-06-06",
+      "email": "phillebeaugosse@gmail.com",
+      "address": "220 Boulevard de la connerie"
+    },
+    {
+      "lastName": "rosario",
+      "firstName": "eva",
+      "jobTitle": "oih",
+      "phone": "oih",
+      "email": "oih@gmail.com",
+      "address": "oij",
+      "id": "g7gYctR"
+    }
+  ]
+}

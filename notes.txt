@@ -1,0 +1,18 @@
+cree routes
+faire mes import
+
+cree nouveau contact
+afficher contact
+afficher un contact de l'utilisateur connecté
+update contact par son id
+
+
+users :
+get users
+/api/users
+
+default :
+/api/users create users
+Get users
+Update users by id
+Delete users by id
